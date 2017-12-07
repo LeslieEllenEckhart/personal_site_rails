@@ -13,3 +13,30 @@
  *= require_tree .
  *= require_self
  */
+#primary-nav {
+    background-color: #ccffff !important;
+}
+
+#jumbo1 {
+  background-color: #ccffff !important;
+}
+
+#purple-button {
+    border-color: #563d7c;
+    color: #563d7c;
+}
+
+#purple-button:hover {
+    background-color: #9933ff;
+    color: white;
+}
+
+#aqua-button {
+    border-color: #00cccc;
+    color: #006666; !important;
+}
+
+#aqua-button:hover {
+    background-color: #00cccc;
+    color: white;
+}
